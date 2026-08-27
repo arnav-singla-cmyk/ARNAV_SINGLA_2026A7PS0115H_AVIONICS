@@ -9,7 +9,7 @@ from matplotlib.animation import FuncAnimation
 # ============================================================
 
 # Path of the CSV file containing the ship's depth data
-file_name = r"C:\Users\mysin\OneDrive\Desktop\Arnav Singla\Depth Data.csv"
+file_name = "Depth Data.csv"
 
 # Read the CSV file into a pandas DataFrame
 data = pd.read_csv(file_name)
