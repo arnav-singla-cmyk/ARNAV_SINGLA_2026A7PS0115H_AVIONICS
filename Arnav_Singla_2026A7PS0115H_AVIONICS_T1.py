@@ -98,7 +98,7 @@ depth_smooth = depth_smooth.iloc[sort_order].reset_index(drop=True)
 # ============================================================
 
 # Number of frames shown every second
-FPS = 2
+FPS = 1
 
 # Use every data point from the CSV as an animation frame
 # This makes the animation cover the complete dataset
