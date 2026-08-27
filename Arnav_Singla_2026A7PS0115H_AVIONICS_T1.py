@@ -1,4 +1,3 @@
-```python
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -99,7 +98,7 @@ depth_smooth = depth_smooth.iloc[sort_order].reset_index(drop=True)
 # ============================================================
 
 # Number of frames shown every second
-FPS = 1
+FPS = 2
 
 # Use every data point from the CSV as an animation frame
 # This makes the animation cover the complete dataset
@@ -342,4 +341,3 @@ plt.tight_layout()
 
 # Show the animated graph
 plt.show()
-```
