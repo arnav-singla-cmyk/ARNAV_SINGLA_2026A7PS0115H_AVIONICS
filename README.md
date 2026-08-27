@@ -76,11 +76,9 @@ Screenshots of the completed Tinkercad wiring are included in the repository.
 
 ```text
 ├── Arnav_Singla_2026A7PS0115H_AVIONICS_T1.py
-├── Depth Data.csv
-├── Tinkercad/
-│   └── screenshots
-├── Task_1/
-│   └── graph_screenshot
+├── Arnav_Singla_2026A7PS0115H_AVIONICS_T1.png
+├── arnav_singla_2026a7ps0115h_avionics_t2.ino
+├── Arnav_Singla_2026A7PS0115H_AVIONICS_T2.png
 └── README.md
 ```
 
